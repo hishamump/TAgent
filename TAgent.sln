@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAgent", "TAgent\TAgent.csproj", "{44CB13D3-ACBB-48D7-B255-48C9DB19C416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CB13D3-ACBB-48D7-B255-48C9DB19C416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CB13D3-ACBB-48D7-B255-48C9DB19C416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CB13D3-ACBB-48D7-B255-48C9DB19C416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CB13D3-ACBB-48D7-B255-48C9DB19C416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BA71B7-13B0-48AA-A064-10D90ED6839E}
+	EndGlobalSection
+EndGlobal
